@@ -1,0 +1,11 @@
+{
+  "name": "phonebook",
+  "version": "0.1.0",
+  "description": "Phonebook application for part3 of Fullstack open course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Leite",
+  "license": "ISC"
+}
